@@ -4,7 +4,7 @@
 
 1 - Clone project from GitHub 
 
-    clone
+    git clone https://github.com/vvbatura/test_nuxgames.git
 
 2 - Create env file from "env.example"
 
